@@ -19,7 +19,6 @@ Car(int cost, String brand, String color) {
 }
 public static void main(String args[])
 {
-<<<<<<< HEAD
 	Car c = new Car(2000,"Mercedes","Black");
 	System.out.println("brand: "+c.brand);
 	System.out.println("cost: "+c.cost);
